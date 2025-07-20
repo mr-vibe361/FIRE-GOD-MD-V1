@@ -1,0 +1,17 @@
+
+{
+  "name": "fire-god-md",
+  "version": "1.0.0",
+  "description": "🔥 FIRE GOD MD WhatsApp bot with OpenAI support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.1",
+    "@hapi/boom": "^10.0.1",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
